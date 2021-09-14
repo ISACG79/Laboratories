@@ -1,0 +1,130 @@
+commit b3836c184029ba34df69b3c2328fa05b573efc9a
+Merge: 2dfba2e 786c3e6
+Author: Gheorghe <isac.gheorghe@isa.utm.md>
+Date:   Tue Sep 14 09:41:29 2021 +0300
+
+    Merge branch 'python'
+
+commit 2dfba2ed9442338a68b5330b7fa49c43f14f7e94
+Merge: 6a6c69a cffdf5e
+Author: Gheorghe <isac.gheorghe@isa.utm.md>
+Date:   Tue Sep 14 09:40:51 2021 +0300
+
+    Merge branch 'Ruby'
+
+commit 6a6c69a39f8acd6407efa048986cdff8f2e12b4e
+Merge: 5fbc458 35c609e
+Author: Gheorghe <isac.gheorghe@isa.utm.md>
+Date:   Tue Sep 14 09:40:37 2021 +0300
+
+    Merge branch 'Php'
+
+commit 5fbc458ca473adb6bee8daad5fdcf68425cc821d
+Merge: fc7de0d 934f693
+Author: Gheorghe <isac.gheorghe@isa.utm.md>
+Date:   Tue Sep 14 09:40:27 2021 +0300
+
+    Merge branch 'Pascal'
+
+commit fc7de0d475e0d1e1a0ef37044163dbc68ae4ee90
+Merge: 7eee272 c232725
+Author: Gheorghe <isac.gheorghe@isa.utm.md>
+Date:   Tue Sep 14 09:40:07 2021 +0300
+
+    Merge branch 'Kotlin'
+
+commit 7eee272a0c341cedc9cdfb32f9fea9560109e47f
+Merge: 59d0c52 045709d
+Author: Gheorghe <isac.gheorghe@isa.utm.md>
+Date:   Tue Sep 14 09:39:54 2021 +0300
+
+    Merge branch 'JavaScript'
+
+commit 59d0c5210291e2d8ca19ba1bedf4d83b78a398e5
+Merge: 11caa7f f6dfdfa
+Author: Gheorghe <isac.gheorghe@isa.utm.md>
+Date:   Tue Sep 14 09:39:34 2021 +0300
+
+    Merge branch 'Java'
+
+commit 11caa7f62b5c2b636f2fd6c8ff1d270d97376b9b
+Merge: 7bdfbaa 32ab1cc
+Author: Gheorghe <isac.gheorghe@isa.utm.md>
+Date:   Tue Sep 14 09:38:00 2021 +0300
+
+    Merge branch 'C#'
+    i need
+
+commit 7bdfbaade001dbddc7f73060bde29e13f7434f56
+Merge: 848beef aac33bf
+Author: Gheorghe <isac.gheorghe@isa.utm.md>
+Date:   Tue Sep 14 09:35:41 2021 +0300
+
+    Merge branch 'C++'because yes =Please enter a commit message to explain why this merge is necessary,
+    yes.
+
+commit 786c3e6273c7289f00f94ba206386c38ead9012b
+Author: Gheorghe <isac.gheorghe@isa.utm.md>
+Date:   Tue Sep 14 09:34:23 2021 +0300
+
+    Python
+
+commit cffdf5e07790529fe6751b4a3a7de104205214e3
+Author: Gheorghe <isac.gheorghe@isa.utm.md>
+Date:   Tue Sep 14 09:33:23 2021 +0300
+
+    Ruby
+
+commit 35c609e1bcac5551f3fef5d16d4a37a9986be314
+Author: Gheorghe <isac.gheorghe@isa.utm.md>
+Date:   Tue Sep 14 09:32:51 2021 +0300
+
+    Php
+
+commit 934f693c654e77c7fd065e9adf52daca1d0812ac
+Author: Gheorghe <isac.gheorghe@isa.utm.md>
+Date:   Tue Sep 14 09:31:52 2021 +0300
+
+    Pascal
+
+commit c23272549c91fbb67e581561dcced071b03586d3
+Author: Gheorghe <isac.gheorghe@isa.utm.md>
+Date:   Tue Sep 14 09:30:54 2021 +0300
+
+    Kotlin
+
+commit 045709da7de50fe1fc63790f855200060f97ddf9
+Author: Gheorghe <isac.gheorghe@isa.utm.md>
+Date:   Tue Sep 14 09:30:04 2021 +0300
+
+    JavaScript
+
+commit f6dfdfa337c0a9a1ba6365a0c7735ec743c71cb0
+Author: Gheorghe <isac.gheorghe@isa.utm.md>
+Date:   Tue Sep 14 09:29:26 2021 +0300
+
+    Java
+
+commit aac33bfc47d09c666cb91d5548cd75672f52026b
+Author: Gheorghe <isac.gheorghe@isa.utm.md>
+Date:   Tue Sep 14 09:28:35 2021 +0300
+
+    C++
+
+commit 32ab1cc27ce4f5ff2a81d309838a498652eed898
+Author: Gheorghe <isac.gheorghe@isa.utm.md>
+Date:   Tue Sep 14 09:24:33 2021 +0300
+
+    C#
+
+commit 848beef924d33ebf1036c8b4f91257c33cd1901f
+Author: Gheorghe <isac.gheorghe@isa.utm.md>
+Date:   Tue Sep 14 09:19:41 2021 +0300
+
+    Commit_C
+
+commit a001dc2cea75c12fc0db1f88f7837423b01c22fc
+Author: Gheorghe <isac.gheorghe@isa.utm.md>
+Date:   Tue Sep 14 08:40:31 2021 +0300
+
+    Lab1_1
